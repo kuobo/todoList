@@ -1,0 +1,5 @@
+{
+    "db": {
+        "url": "postgres://postgres:021622@localhost:5432/todo"
+    }
+}
